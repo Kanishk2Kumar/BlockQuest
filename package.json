@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "hardhat": "^2.22.18"
+    "hardhat": "^2.22.18",
+    "react-router-dom": "^7.1.5"
   }
 }
